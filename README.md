@@ -9,3 +9,6 @@ A simple and interactive Kanban Board built with React. Easily manage your tasks
 - 🌓 Toggle between Light and Dark theme with emoji support
 - ✏️ Edit and delete tasks
 - ✅ User-friendly and responsive design
+
+  ![image](https://github.com/user-attachments/assets/a667078e-9ed1-49ab-8931-3f403d01aedd)
+
